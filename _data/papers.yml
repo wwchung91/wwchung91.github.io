@@ -1,0 +1,19 @@
+# Associations
+# comment out the urls if you do not wish to display them
+- organization: AIBRP0008 Context Aware Interactive Robot (US Patent 16227474)
+  role: Run Cui, WonTaek Chung, HyeJun Yu
+  year: 2018
+  summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products. 
+
+- organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
+  role: WonTaek Chung, YongHyun Kim, Yong-Joong Kim, DaiJin Kim
+  year: 2016
+  url: https://ieeexplore.ieee.org/document/7738024
+  summary:  In this paper, we propose a two-stage foreground propagation that uses clues to adapt to the environment and detect moving objects in a non-stationary camera.
+
+
+- organization: I am What I Eat. Identity & Critical Thinking in an Online Health Forum For Kids. (CHI)
+  role: Andrea Grimes Parker, Ian McClendon, Catherine Grevet, Victoria Ayo, WonTaek Chung, Veda Johnson, Elizabeth D. Mynatt
+  year: 2013
+  url: https://dl.acm.org/citation.cfm?id=2481338
+  summary: To explore how technology might help kids develop critical thinking, we created an online forum called TalkBack that encourages children to critically analyze the messaging in food ads.

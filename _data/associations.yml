@@ -1,0 +1,14 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Tasputra
+  role: Volunteer
+  year: 2010
+  url: http://tasputra.com/
+  summary: todo
+
+- organization: Habitat for Humanity
+  role: Volunteer
+  year: 2008
+  url: https://www.habitat.org/
+  summary: todo
