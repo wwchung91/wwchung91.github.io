@@ -2,14 +2,15 @@
 # VP of Global Communications
 - company: AIBrain Asia & Crosscert 
   position: Product Manager/Software Engineer 
-  duration: 2016 &mdash; Present
+  duration: Present &mdash; 2016
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: Pohang University of Science and Technology
   position: Researcher
-  duration:  2014 &mdash; 2016
-  summary: Worked on government projects such as moving object detection in a non-stationary camera, traffic accident prediction, traffic light detection. /  
+  duration:  2016 &mdash; 2014
+  summary: Worked on government projects such as moving object detection in a non-stationary camera, traffic accident prediction, traffic light detection. (Should add more description) 
+<ul class="resume-item-list"><li>Moving object detection in a non-stationary camera- https://www.youtube.com/watch?v=SK6ReAVqjD8</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Communications Coordinator
 - company:  Secho City Hall
@@ -20,7 +21,7 @@
 # Communications Coordinator
 - company:  Georgia Institute of Technology
   position: Research Assistant
-  duration:   2011  &mdash; 2012
+  duration:   2012  &mdash; 2011
   summary: Focused on helping children’s diet from low income family through technology. Created a webpage prototype to encourage critical thinking about food advertisement.
 
 # Communications Coordinator
