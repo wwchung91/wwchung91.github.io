@@ -3,14 +3,13 @@
 - company: AIBrain Asia & Crosscert 
   position: Product Manager/Software Engineer 
   duration: Present &mdash; 2016
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Managed and developed on robotics product that include computer vision, machine learning, and conversational AI. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: Pohang University of Science and Technology
   position: Researcher
   duration:  2016 &mdash; 2014
-  summary: Worked on government projects such as moving object detection in a non-stationary camera, traffic accident prediction, traffic light detection. (Should add more description) 
-
+  summary: Worked on government projects involved with computer vision, machine learning and surveillance <ul class="resume-item-list"><li>Moving object detection in a non-stationary camera [https://youtu.be/SK6ReAVqjD8]</li><li>Traffic light detection []</li><li>Traffic accident prediction []</li></ul>
 
 # Communications Coordinator
 - company:  Secho City Hall
