@@ -3,13 +3,13 @@
 - company: AIBrain Asia & Crosscert 
   position: Product Manager/Software Engineer 
   duration: Present &mdash; 2016
-  summary: Managed and developed on robotics product that include computer vision, machine learning, and conversational AI. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Managed and developed on robotics product that include computer vision, machine learning, and conversational AI. <ul class="resume-item-list"><li><strong>Quattro</strong> [https://github.com/aibraininc/quattro] - a mini-walking robot</li><li><strong>Gretchen Head</strong> [https://github.com/aibraininc/gretchenhead] - an open-source robot head platform with social gaze </li><li><strong>Gretchen Legs</strong> - an open-source robot leg platform </li></ul>
 
 # Director of Digital Stratgy
 - company: Pohang University of Science and Technology
   position: Researcher
   duration:  2016 &mdash; 2014
-  summary: Worked on government projects involved with computer vision, machine learning and surveillance <ul class="resume-item-list"><li>Moving object detection in a non-stationary camera [https://youtu.be/SK6ReAVqjD8]</li><li>Traffic light detection []</li><li>Traffic accident prediction []</li></ul>
+  summary: Worked on government projects involved with computer vision, machine learning and surveillance <ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [https://youtu.be/SK6ReAVqjD8]</li><li><strong>Traffic light detection</strong> []</li><li><strong>Traffic accident prediction</strong> []</li></ul>
 
 # Communications Coordinator
 - company:  Secho City Hall
