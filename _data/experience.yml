@@ -1,21 +1,21 @@
 # Jobs
 # VP of Global Communications
-- company: AIBrain Asia & Crosscert 
-  position: Product Manager/Software Engineer 
+- company: AIBrain Asia & Crosscert
+  position: Product Manager/Software Engineer
   duration: Present &mdash; 2016
-  summary: Managed and developed on robotics product that include computer vision, machine learning, and conversational AI. <ul class="resume-item-list"><li><strong>Quattro</strong> [<a href="https://github.com/aibraininc/quattro">https://github.com/aibraininc/quattro</a>] - A mini-walking robot for users to design their own legs and test different walking algorithms based on parameter-tuning. We developed the hardware & software and documentation in three different languages (English/German/Chinese) </li><li><strong>Gretchen Robot Head</strong> [<a href="https://github.com/aibraininc/gretchenhead">https://github.com/aibraininc/gretchenhead</a>] - An open-source robot head platform to introduce users to hardware and software development on a robot. We also developed a social gaze framework as an exemplar and to enhance AICoRE (AIBrain's conversational AI). </li><li><strong>Gretchen Robot Legs</strong> [<a href="https://github.com/aibraininc/gretchen">https://github.com/aibraininc/gretchen</a>] - an open-source robot leg platform to experiment walking & balancing algorithms. We are working with Humboldt-Universität zu Berlin. </li></ul>
+  summary: Managed and developed on robotics products that include computer vision, machine learning, and conversational AI. <ul class="resume-item-list"><li><strong>Quattro</strong> [<a href="https://github.com/aibraininc/quattro">https://github.com/aibraininc/quattro</a>] - A mini-walking robot for users to design their own legs and test different walking algorithms based on parameter-tuning. We developed the hardware, software and documentation in three different languages (English/German/Chinese). Quattro is a educational kit to introduce people to robotics and AI. </li><li><strong>Gretchen Robot Head</strong> [<a href="https://github.com/aibraininc/gretchenhead">https://github.com/aibraininc/gretchenhead</a>] - An open-source robot head research platform for users to develop robot head behavior algorithms. The robot head is an educational kit to introduce people to robot assembly and robot software development. Users are exposed to various level of programming such as commanding actuators or applying computer vision algorithms. We also developed a social gaze framework as an exemplar and to enhance  AIBrain's conversational AI called AICoRE. </li><li><strong>Gretchen Robot Legs</strong> [<a href="https://github.com/aibraininc/gretchen">https://github.com/aibraininc/gretchen</a>] - An open-source robot leg research platform to experiment walking and balancing algorithms. We are working with Humboldt-Universität zu Berlin to develop a walking algorithm as well as make the Gretchen Leg more available to the public. </li></ul>
 
 # Director of Digital Stratgy
 - company: Pohang University of Science and Technology
   position: Researcher
   duration:  2016 &mdash; 2014
-  summary: Worked on government projects involved with computer vision, machine learning and surveillance. <ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background and clue-based regulation to detect foreground objects. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
+  summary: Worked on government projects involved with computer vision, machine learning and surveillance. <ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
 
 # Communications Coordinator
 - company:  Secho City Hall
   position: Part Time Worker
   duration:   2013
-  summary: Took care of day to day needs of the Korean citizens in Seocho at a city hall. 
+  summary: Took care of day to day needs of the Korean citizens in Seocho at a city hall.
 
 # Communications Coordinator
 - company:  Georgia Institute of Technology
@@ -27,13 +27,10 @@
 - company:  Seoul Food Exhibition
   position: Translator
   duration: 2012
-  summary: Translated English/Korean at an international food expo. 
+  summary: Translated English/Korean at an international food expo.
 
 # Communications Coordinator
 - company:  KOTRA Korea Trade Center Malaysia
   position: Market Research Assistant/Intern
   duration: 2010
-  summary: Acted as an mediator between buyers and sellers. Conducted interviewed based market research on products. 
-
-
-
+  summary: Acted as an mediator between buyers and sellers. Completed market research on various products and connected industries between Korea and Malaysia.
