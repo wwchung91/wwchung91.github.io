@@ -3,18 +3,18 @@
 - company: AIBrain Asia & Crosscert
   position: Product Manager/Software Engineer
   duration: Present &mdash; 2016
-  summary: <strong>Summary</strong> Managed and developed on robotics products that include computer vision, machine learning, and conversational AI.
+  summary: <strong>Summary</strong> Managed and developed on robotics products that include computer vision, machine learning, and conversational AI. Mainly focused on creating a open-sourced humanoid platform.
   projects:
       - name: Gretchen Robot Head
-        summary: An open-source robot head research platform for users to develop robot head behavior algorithms. The robot head is an educational kit to introduce people to robot assembly and robot software development. Users are exposed to various level of programming such as commanding actuators or applying computer vision algorithms. We also developed a social gaze framework as an exemplar and to enhance  AIBrain's conversational AI called AICoRE.
+        summary: <strong> [Developer] </strong> Created an open-source robot head research platform. Developed both hardware and software. For the hardware, 2D or 3D camera was used with Robotis motors. For the software ROS was used to control the motors and estimate positions of objects in robot coordinates system. The software also includes remote control of the robot head.
         media:
 
       - name: Gretchen Humanoid AI Online Course
-        summary:
+        summary: <strong> [Instructor] </strong> Based on the Gretchen robot head with a 2D camera, we created a online course that helps people get interested in robotics and programming a robotic head. After the course, students should be able to program a functional robot head. Users are exposed to various level of programming such as commanding actuators or applying computer vision algorithms. We also developed a social gaze framework as an exemplar and to enhance  AIBrain's conversational AI called AICoRE
         media:
 
       - name: Gretchen Leg
-        summary: An open-source robot leg research platform to experiment walking and balancing algorithms. We are working with Humboldt-Universität zu Berlin to develop a walking algorithm as well as make the Gretchen Leg more available to the public.
+        summary: <strong> [Developer] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
         media:
 
       #- name: Athena SLAM
@@ -32,15 +32,20 @@
   summary: Worked on government projects involved with computer vision, machine learning and surveillance.
   projects:
     - name: Moving object detection in a non-stationary camera
-      summary: Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
-      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/SK6ReAVqjD8?si=b4VbHD-CXWzn6LtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      summary: <strong> [Researcher] </strong> Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
+      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/SK6ReAVqjD8?si=b4VbHD-CXWzn6LtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <img width="300" height="250" src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+
+    - name: Vehicle detection and movement classification (moving/stationary)
+      summary: <strong> [Researcher] </strong> Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
+      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/EsojV8YUI3U?si=hO4Ny_FLPnTfafQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
     - name: Traffic light detection
-      summary: Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training.
+      summary: <strong> [Researcher] </strong> Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training.
       media: <iframe width="400" height="250" src="https://www.youtube.com/embed/cy4JFj1KYr8?si=8FzthEdzWlrPNuQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     - name: Traffic accident prediction
-      summary: Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>.
+      summary: <strong> [Researcher] </strong> Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>.
       media: <iframe width="400" height="250" src="https://www.youtube.com/embed/hhAQ6EDGTDU?si=FgYQ0w1nSSGzsOx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   #<ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model #regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic #accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
