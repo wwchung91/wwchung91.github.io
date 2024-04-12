@@ -1,11 +1,11 @@
 # Skills
 # Organizational leadership
-- skill: Project Management 
-  description: Worked as a project manager in AIBrain's Quattro, Gretchen Head and Gretchen Leg. These projects required collaboration among people from different countries, and both software and hardware development. Took leadership as a project manager for my undergraduate courses such as Object Design, English Componsition II, Literature, Communication & Culture. These projects involved in creating a mini-game and websites. 
+#- skill: Project Management
+#  description: Worked as a project manager in AIBrain's Quattro, Gretchen Head and Gretchen Leg. These projects required collaboration among people from different countries, and both software and hardware development. Took leadership as a project manager for my undergraduate courses such as Object Design, English Componsition II, Literature, Communication & Culture. These projects involved in creating a mini-game and websites.
 
 # Communications strategy
-- skill: Programming Experience 
-  description: C++, Python, ROS (Robot Operating System), OpenCV, Dlib, Ubuntu. 
+- skill: Programming Experience
+  description: C++, Python, ROS (Robot Operating System), ROS2, Pytorch, Pybullet, Fusion360, CURA, OpenCV, Dlib.
 
-- skill: Languages 
-  description: Fluent in Korean and English. 
+- skill: Languages
+  description: Fluent in Korean and English.

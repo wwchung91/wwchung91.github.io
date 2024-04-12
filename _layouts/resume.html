@@ -79,7 +79,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Work Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -92,6 +92,48 @@
 
       </section>
       <!-- end Experience -->
+      {% endif %}
+
+
+      {% if site.resume_section_teaching_experience %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Teaching Experience</h2>
+        </header>
+
+        {% for teaching in site.data.teaching %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if teaching.url %}<a href="{{ teaching.url }}">{{ teaching.organization }}</a>{% else %}{{ teaching.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ teaching.course }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ teaching.role }} &bull; {{ teaching.year }}</h4>
+          <p class="resume-item-copy">{{ teaching.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
+      {% if site.resume_section_papers %}
+      <!-- begin Papers -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Papers and Patents</h2>
+        </header>
+
+        {% for paper in site.data.papers %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if paper.url %}<a href="{{ paper.url }}">{{ paper.organization }}</a>{% else %}{{ paper.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ paper.role }} &bull; {{ paper.year }}</h4>
+          <p class="resume-item-copy">{{ paper.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Papers -->
       {% endif %}
 
 
@@ -174,26 +216,6 @@
 
       </section>
       <!-- end Associations -->
-      {% endif %}
-
-      {% if site.resume_section_papers %}
-      <!-- begin Papers -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Papers and Patents</h2>
-        </header>
-
-        {% for paper in site.data.papers %}
-        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{% if paper.url %}<a href="{{ paper.url }}">{{ paper.organization }}</a>{% else %}{{ paper.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ paper.role }} &bull; {{ paper.year }}</h4>
-          <p class="resume-item-copy">{{ paper.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Papers -->
       {% endif %}
 
 

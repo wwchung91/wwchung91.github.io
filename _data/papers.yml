@@ -3,6 +3,7 @@
 - organization: AIBRP0008 Context Aware Interactive Robot (US Patent 16227474)
   role: Run Cui, WonTaek Chung, HyeJun Yu
   year: 2018
+  url: https://patents.google.com/patent/US11151992B2/en
   summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products. 
 
 - organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
