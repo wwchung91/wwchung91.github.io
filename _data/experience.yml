@@ -5,17 +5,30 @@
   duration: Present &mdash; 2016
   summary: <strong>Summary</strong> Managed and developed on robotics products that include computer vision, machine learning, and conversational AI. Mainly focused on creating a open-sourced humanoid platform.
   projects:
-      - name: Gretchen Robot Head
+      - name: Gretchen Humanoid Robot Head with 2D Camera
         summary: <strong> [Developer] </strong> Created an open-source robot head research platform. Developed both hardware and software. For the hardware, 2D or 3D camera was used with Robotis motors. For the software ROS was used to control the motors and estimate positions of objects in robot coordinates system. The software also includes remote control of the robot head.
-        media:
+        media: <img width="350" height="250" src="images/gretchen-head-2d.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/gretchen-2d-architecture.png" alt="my photo" class="avatar no-print" itemprop="image"> <iframe width="350" height="250" src="https://www.youtube.com/embed/9-S6prOuEXU?si=TTUjKCkRzi5tyTqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+      - name: Gretchen Humanoid Robot Head with 3D Camera
+        summary: <strong> [Developer] </strong> Created an open-source robot head research platform. Developed both hardware and software. For the hardware, 2D or 3D camera was used with Robotis motors. For the software ROS was used to control the motors and estimate positions of objects in robot coordinates system. The software also includes remote control of the robot head.
+        media: <img width="350" height="247" src="images/gretchen-head-3d.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/gretchen-head-3d-social-gaze.png" alt="my photo" class="avatar no-print" itemprop="image">
+        # <img width="410" height="250" src="images/gretchen-head-3d-social-gaze-overall.png" alt="my photo" class="avatar no-print" itemprop="image">
 
       - name: Gretchen Humanoid AI Online Course
         summary: <strong> [Instructor] </strong> Based on the Gretchen robot head with a 2D camera, we created a online course that helps people get interested in robotics and programming a robotic head. After the course, students should be able to program a functional robot head. Users are exposed to various level of programming such as commanding actuators or applying computer vision algorithms. We also developed a social gaze framework as an exemplar and to enhance  AIBrain's conversational AI called AICoRE
-        media:
+        media: <img width="350" height="250" src="images/gretchen-online-course.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/gretchen-online-course-sessions.png" alt="my photo" class="avatar no-print" itemprop="image"> <iframe width="350" height="250" src="https://www.youtube.com/embed/R0SX7h5h7bY?si=ncb9OROu9MF7SpV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-      - name: Gretchen Leg
+      - name: Gretchen Humanoid Robot Leg
         summary: <strong> [Developer] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
-        media:
+        media: <img width="250" height="250" src="images/gretchen-leg-v1.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="250" height="250" src="images/gretchen-leg-v2.png" alt="my photo" class="avatar no-print" itemprop="image">
+
+      - name: Athena Personal Assistant Robot
+        summary: <strong> [Project Manager] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
+        media: <img width="250" height="250" src="images/gretchen-leg-v1.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="250" height="250" src="images/gretchen-leg-v2.png" alt="my photo" class="avatar no-print" itemprop="image">
+
+      - name: Sensoriboard/Sensorimotor
+        summary: <strong> [Team Member] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
+        media: <img width="250" height="250" src="images/gretchen-leg-v1.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="250" height="250" src="images/gretchen-leg-v2.png" alt="my photo" class="avatar no-print" itemprop="image">
 
       #- name: Athena SLAM
       #  summary:
@@ -33,20 +46,22 @@
   projects:
     - name: Moving object detection in a non-stationary camera
       summary: <strong> [Researcher] </strong> Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
-      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/SK6ReAVqjD8?si=b4VbHD-CXWzn6LtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <img width="300" height="250" src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+      media: <img width="350" height="250" src="images/MOD-background-regulation-result.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/MOD-iterative-threshold.png" alt="my photo" class="avatar no-print" itemprop="image"> <iframe width="350" height="250" src="https://www.youtube.com/embed/SK6ReAVqjD8?si=b4VbHD-CXWzn6LtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
     - name: Vehicle detection and movement classification (moving/stationary)
       summary: <strong> [Researcher] </strong> Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
-      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/EsojV8YUI3U?si=hO4Ny_FLPnTfafQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/EsojV8YUI3U?si=hO4Ny_FLPnTfafQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
     - name: Traffic light detection
       summary: <strong> [Researcher] </strong> Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training.
-      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/cy4JFj1KYr8?si=8FzthEdzWlrPNuQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/cy4JFj1KYr8?si=8FzthEdzWlrPNuQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     - name: Traffic accident prediction
       summary: <strong> [Researcher] </strong> Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>.
-      media: <iframe width="400" height="250" src="https://www.youtube.com/embed/hhAQ6EDGTDU?si=FgYQ0w1nSSGzsOx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/hhAQ6EDGTDU?si=FgYQ0w1nSSGzsOx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   #<ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model #regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic #accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
 
