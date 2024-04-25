@@ -24,11 +24,11 @@
 
       - name: Athena Personal Assistant Robot
         summary: <strong> [Project Manager] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
-        media: <img width="250" height="250" src="images/gretchen-leg-v1.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="250" height="250" src="images/gretchen-leg-v2.png" alt="my photo" class="avatar no-print" itemprop="image">
+        media: <img width="350" height="250" src="images/athena-hardware.png" alt="my photo" class="avatar no-print" itemprop="image">  <img width="350" height="250" src="images/athena-hardware-inside.png" alt="my photo" class="avatar no-print" itemprop="image">  <iframe width="350" height="250" src="https://www.youtube.com/embed/FTnMlzWFFTA?si=mx8NzHdqe7ZqG7K0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       - name: Sensoriboard/Sensorimotor
         summary: <strong> [Team Member] </strong> An open-source robot leg research platform to experiment walking and balancing algorithms. Initially we worked with Humboldt-Universität zu Berlin. Hardware and software is still work in progress. Development is slow because it required many trial and errors.
-        media: <img width="250" height="250" src="images/gretchen-leg-v1.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="250" height="250" src="images/gretchen-leg-v2.png" alt="my photo" class="avatar no-print" itemprop="image">
+        media: <img width="350" height="247" src="images/sensorimotor.jpg" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="247" src="images/sensoriboard-cam.png" alt="my photo" class="avatar no-print" itemprop="image">
 
       #- name: Athena SLAM
       #  summary:
@@ -52,16 +52,16 @@
 
     - name: Vehicle detection and movement classification (moving/stationary)
       summary: <strong> [Researcher] </strong> Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016.
-      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/EsojV8YUI3U?si=hO4Ny_FLPnTfafQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <img width="350" height="250" src="images/moving_vehicle.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/static_vehicle.png" alt="my photo" class="avatar no-print" itemprop="image"> <iframe width="350" height="250" src="https://www.youtube.com/embed/EsojV8YUI3U?si=hO4Ny_FLPnTfafQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
     - name: Traffic light detection
       summary: <strong> [Researcher] </strong> Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training.
-      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/cy4JFj1KYr8?si=8FzthEdzWlrPNuQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/5_WVztXgb2E?si=qrTN3KjkXYdTPM8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     - name: Traffic accident prediction
       summary: <strong> [Researcher] </strong> Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>.
-      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/hhAQ6EDGTDU?si=FgYQ0w1nSSGzsOx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      media: <iframe width="350" height="250" src="https://www.youtube.com/embed/MGLh7AI53_I?si=8wiU_vNUvcRUDQpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   #<ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model #regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic #accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
 
@@ -70,7 +70,7 @@
   position: Research Assistant
   duration:   2012  &mdash; 2011
   summary: Focused on helping children’s diet from low income family through technology at Everyday Computing Lab under Andrea Grimes Parker. Created a webpage prototype to encourage critical thinking about food advertisement.
-
+  media: <iframe width="350" height="250" src="https://www.youtube.com/embed/Ljgk9UxtTDw?si=tNNchMe0ja8NKbE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # Communications Coordinator
 # Communications Coordinator
 #- company:  Secho City Hall
