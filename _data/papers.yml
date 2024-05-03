@@ -4,7 +4,7 @@
   role: Run Cui, WonTaek Chung, HyeJun Yu
   year: 2018
   url: https://patents.google.com/patent/US11151992B2/en
-  summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products. 
+  summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products.
 
 - organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
   role: WonTaek Chung, YongHyun Kim, Yong-Joong Kim, DaiJin Kim
@@ -12,7 +12,12 @@
   url: https://ieeexplore.ieee.org/document/7738024
   summary:  In this paper, we propose a two-stage foreground propagation that uses clues to adapt to the environment and detect moving objects in a non-stationary camera.
 
-
+- organization: Fast and Accurate Car Detection in Drone-View (ICCE-Asia)
+  role: Jongmin Yoon, InHan Kim, WonTaek Chung, Daijin Kim
+  year: 2016
+  url: https://ieeexplore.ieee.org/document/7804775
+  summary:  We propose a way to detect cars in drone-view fast and accurately. For this purpose we proposes a feature called G-ORF for effective feature description. Also we designed a pose classifier and bin-specific weighted Linear Discriminant Analysis (wLDA) classifier for pose classification.
+  
 - organization: I am What I Eat. Identity & Critical Thinking in an Online Health Forum For Kids. (CHI)
   role: Andrea Grimes Parker, Ian McClendon, Catherine Grevet, Victoria Ayo, WonTaek Chung, Veda Johnson, Elizabeth D. Mynatt
   year: 2013
