@@ -5,9 +5,9 @@
   role: Teaching Assistant (TA)
   year: 2022/2023/2024
   url: https://summer.snu.ac.kr/
-  summary: This hands-on course offers a comprehensive exploration of robotics, computer vision, machine learning, and AI, all presented in a practical and accessible manner. No particular prior knowledge on robotics or programming is required, however, basic Python skills are recommended. 
+  summary: The First Steps in Programming a Humanoid AI Robot was taught by Professor Bernard Egger from SNU. This hands-on course offers a comprehensive exploration of robotics, computer vision, machine learning, and AI, all presented in a practical and accessible manner. Students go over the topics mentioned above and are required to assemble a robot and create an application using the Gretchen Robot Head.
 - organization: Dalian American International School - Extracurricular
   course: Introduction to Robotics
   role: Instructor
   year: 2019 Summer/2019 Winter
-  summary: We used Quattro a mini-walking robot to teach the basics in robotics and reinforcement learning.
+  summary: We used Quattro a mini-walking robot to teach the basics in robotics and reinforcement learning. Students build robot legs and adjust the robot gait. Once the students have a walking robot, they can teach the robot to stop when there is an obstacle in front using reinforcement learning.
