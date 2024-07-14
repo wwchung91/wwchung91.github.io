@@ -2,7 +2,7 @@
 # VP of Global Communications
 - company: AIBrain Asia & Crosscert
   position: Product Manager/Software Engineer
-  duration: Present &mdash; 2016
+  duration: Present &mdash; 2017
   summary: Managed and developed robotics products that include computer vision, machine learning, and conversational AI. Mainly focused on creating an open-sourced humanoid platform.
   projects:
       - name: Gretchen Humanoid Robot Head with a 2D Camera
@@ -80,7 +80,7 @@
       media: <iframe width="350" height="250" src="https://www.youtube.com/embed/5_WVztXgb2E?si=qrTN3KjkXYdTPM8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     - name: Traffic accident prediction
-      summary: <strong> [Developer] </strong> Implemented traffic accident prediction using Motion Interaction Field in MATLAB. The methodology uses a kernel filter to analyze the direction and magnitude of the optical flow. The kernel filter gives the optical flow give wave like properties where different waves colliding will create large magnitudes. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. 
+      summary: <strong> [Developer] </strong> Implemented traffic accident prediction using Motion Interaction Field in MATLAB. The methodology uses a kernel filter to analyze the direction and magnitude of the optical flow. The kernel filter gives the optical flow give wave like properties where different waves colliding will create large magnitudes. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>.
       skills: <strong> [Required Skillset] </strong> MATLAB
       media: <iframe width="350" height="250" src="https://www.youtube.com/embed/MGLh7AI53_I?si=8wiU_vNUvcRUDQpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
