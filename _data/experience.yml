@@ -18,7 +18,7 @@
         # <img width="410" height="250" src="images/gretchen-head-3d-social-gaze-overall.png" alt="my photo" class="avatar no-print" itemprop="image">
 
       - name: Gretchen Humanoid AI Online Course
-        summary: <strong> [Instructor] </strong> Based on the Gretchen Humanoid Robot Head with a 2D Camera, we created a 9 week online course that works as a guide for using the open sourced platform. The course contains lecture, hands-on experience, and homework. After the course, students should be able to program a functional robot head.
+        summary: <strong> [Instructor] </strong> Based on the Gretchen Humanoid Robot Head with a 2D Camera, we created a 9 week online course that works as a guide for using the open sourced platform. The course contains lecture, hands-on experience, and homework. After the course, students should be able to program a functional robot head. The course is designed so that anyone regardless of background can easily learn to program robot. 
         skills: <strong> [Required Skillset] </strong> ROS, C++, Python, Moodle
         media: <img width="350" height="250" src="images/gretchen-online-course.png" alt="my photo" class="avatar no-print" itemprop="image"> <img width="350" height="250" src="images/gretchen-online-course-sessions.png" alt="my photo" class="avatar no-print" itemprop="image"> <iframe width="350" height="250" src="https://www.youtube.com/embed/R0SX7h5h7bY?si=ncb9OROu9MF7SpV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
