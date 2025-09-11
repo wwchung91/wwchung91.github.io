@@ -2,7 +2,11 @@
 - degree: MS in Computer Science with 3.72/4.30 GPA
   uni: Pohang University of Science and Technology, Republic of Korea
   year: 2017
-  summary: <ol><li> Thesis: Moving Object Detection under a Non-Stationary Camera using an Improved Background Model with Foreground Clues </li><li> Research lab: Intelligent Media Laboratory (IMLab), advised by Prof. DaiJin Kim </li><li>Committee members: Prof. Minsu Cho and Prof. Seungmoon Choi</li><li>Focus: Computer Vision, Machine Learning, Pattern Recognition</li></ol>
+  awards:
+    - award: "Graduated with Honors"
+    - award: "Dean’s List (2012–2014)"
+    - award: "Best Thesis Award"
+  summary: Thesis titled "Moving object detection under an non-stationary camera using a improved background model with foreground clues". Worked at IMLAB under Professor DaiJin Kim. Focused on Computer Vision, Machine Learning, Pattern Recognition.
 
 - degree: BS in Computer Science with 3.09/4.00 GPA
   uni: Georgia Institute of Technology, USA
