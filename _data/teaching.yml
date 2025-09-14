@@ -1,24 +1,24 @@
 # Skills
 # Organizational leadership
-- organization: Seoul National University (SNU) - International Summer Program 
+- organization: Seoul National University (SNU) - International Summer Program
   course: First Steps in Programming a Humanoid AI Robot
   role: Course Developer/Teaching Assistant (TA)
   year: 2022/2023/2024
   url: https://summer.snu.ac.kr/
-  summary: Developed the course "The First Steps in Programming a Humanoid AI Robot" for SNU under the supervision of Professor Bernard Egger. This hands-on course offers a comprehensive exploration of robotics, computer vision, machine learning, and AI, all presented in a practical and accessible manner. Students go over the topics mentioned above and are required to assemble a robot and create an application using the Gretchen Robot Head.
+  summary: Developed the course “The First Steps in Programming a Humanoid AI Robot” for Seoul National University under the supervision of Professor Bernard Egger. This hands-on program introduces students to robotics, computer vision, machine learning, and AI through a practical and accessible approach. Participants assemble the Gretchen Robot Head, integrate hardware components, and build an application that demonstrates AI-driven control, gaining end-to-end experience in both robotics hardware and intelligent software systems.
 - organization: Lucerne University of Applied Sciences and Arts (HSLU)- Block Program
   course: First Steps in Programming a Humanoid AI Robot
   role: Course Developer/Teaching Assistant (TA)
   year: 2024/2025
   url: https://www.hslu.ch/en/
-  summary: SNU's "The First Steps in Programming a Humanoid AI Robot" course was expanded to HSLU. The students are exposed to robotics, computer vision, machine learning, and AI and create an application all in one week.
+  summary: Adapted and delivered SNU’s First Steps in Programming a Humanoid AI Robot course for HSLU’s block program. Students engaged in an accelerated one-week curriculum, covering robotics, computer vision, and AI fundamentals while building and programming humanoid robot applications.
 - organization: Dalian American International School - Extracurricular
   course: Introduction to Robotics
   role: Instructor
   year: 2019 Summer/2019 Winter
-  summary: We used Quattro a mini-walking robot to teach the basics in robotics and reinforcement learning. Students build robot legs and adjust the robot gait. Once the students have a walking robot, they can teach the robot to stop when there is an obstacle in front using reinforcement learning.
+  summary: We used Quattro, a miniature walking robot, to introduce students to the fundamentals of robotics and reinforcement learning. Students designed and assembled robot legs, adjusted gait parameters for stable walking, and then applied a Q-learning–based approach to train the robot to stop when detecting an obstacle.
 - organization: Pohang University of Technology and Science
   course: Intro. to Computer Science Study
   role: Teaching Assistant (TA)
   year: 2015 Fall
-  summary: Organized and managed seminars from various professors and industry experts.
+  summary: Assisted in Introduction to Computer Science Study, coordinating seminars with faculty and industry experts and supporting students in foundational computer science learning.
