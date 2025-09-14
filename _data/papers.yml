@@ -4,22 +4,22 @@
   role: Run Cui, WonTaek Chung, HyeJun Yu
   year: 2018
   url: https://patents.google.com/patent/US11151992B2/en
-  summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products.
+  summary: We propose a robotic system that integrates computer vision, spatial mapping, and natural language processing. The system constructs semantic location maps from camera and sensor data, interprets user speech through a reasoning engine, and autonomously executes commands while providing real-time feedback.
 
 - organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
   role: WonTaek Chung, YongHyun Kim, Yong-Joong Kim, DaiJin Kim
   year: 2016
   url: https://ieeexplore.ieee.org/document/7738024
-  summary:  In this paper, we propose a two-stage foreground propagation that uses clues to adapt to the environment and detect moving objects in a non-stationary camera.
+  summary: Proposed and implemented a two-stage framework for moving object detection under non-stationary cameras. Designed a background regulation method that dynamically incorporates clues from frame differencing and background subtraction to stabilize the background model despite imperfect motion compensation. Developed an iterative threshold refinement process that leverages high-confidence foreground pixels to adapt local thresholds, improving accuracy in distinguishing true object regions from noise. This approach achieved significantly higher recall while maintaining strong precision, establishing state-of-the-art performance at the time.
 
-- organization: Fast and Accurate Car Detection in Drone-View (ICCE-Asia)
-  role: Jongmin Yoon, InHan Kim, WonTaek Chung, Daijin Kim
-  year: 2016
-  url: https://ieeexplore.ieee.org/document/7804775
-  summary:  We propose a way to detect cars in drone-view fast and accurately. For this purpose we proposes a feature called G-ORF for effective feature description. Also we designed a pose classifier and bin-specific weighted Linear Discriminant Analysis (wLDA) classifier for pose classification.
-  
+#- organization: Fast and Accurate Car Detection in Drone-View (ICCE-Asia)
+#  role: Jongmin Yoon, InHan Kim, WonTaek Chung, Daijin Kim
+#  year: 2016
+#  url: https://ieeexplore.ieee.org/document/7804775
+#  summary:  We propose a way to detect cars in drone-view fast and accurately. For this purpose we proposes a feature called G-ORF for effective feature description. Also we designed a pose classifier and bin-specific weighted Linear Discriminant Analysis (wLDA) classifier for pose classification.
+
 - organization: I am What I Eat. Identity & Critical Thinking in an Online Health Forum For Kids. (CHI)
   role: Andrea Grimes Parker, Ian McClendon, Catherine Grevet, Victoria Ayo, WonTaek Chung, Veda Johnson, Elizabeth D. Mynatt
   year: 2013
   url: https://dl.acm.org/citation.cfm?id=2481338
-  summary: To explore how technology might help kids develop critical thinking, we created an online forum called TalkBack that encourages children to critically analyze the messaging in food ads.
+  summary: This paper introduces TalkBack, an online forum designed to help middle school students critically evaluate food advertisements by reflecting on ad claims, product healthiness, and personal desire. A study with twenty-eight participants showed that children often projected and protected their sense of identity through their forum interactions. The paper discusses how HCI interventions can better support critical thinking and promote healthier decision-making among adolescents.
