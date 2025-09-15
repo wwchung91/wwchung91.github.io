@@ -2,7 +2,7 @@
 # VP of Global Communications
 - company: AIBrain Asia & Crosscert
   position: Product Manager/Software Engineer
-  duration: Present &mdash; 2017
+  duration: 2025 &mdash; 2017
   summary: Managed and contributed to the development of robotics products integrating computer vision, machine learning, and conversational AI, with a primary focus on building an open-source humanoid research platform under the supervision of <a href="https://scholar.google.com/citations?user=g-ZpvTIAAAAJ&hl=en">Prof. Bernhard Egger</a>.
   projects:
       - name: Gretchen Humanoid Robot Head with a 2D Camera
@@ -62,7 +62,7 @@
 - company: Pohang University of Science and Technology
   position: Researcher
   duration:  2016 &mdash; 2014
-  summary: Research involving with computer vision, machine learning and surveillance.
+  summary: Conducted research in computer vision, machine learning, pattern recognition, and visual surveillance, with a primary focus on moving object detection in non-stationary camera environments.
   projects:
     - name: Moving object detection in a non-stationary camera
       summary: <strong> [Researcher] </strong> Developed a novel framework for detecting moving objects under non-stationary cameras using grid-based background subtraction with motion compensation. Proposed a clue-based background regulation method that adaptively updates the background model based on frame differencing and background subtraction, reducing the impact of inaccurate motion compensation and suppressing false detections. Introduced an iterative threshold refinement algorithm that begins with high-confidence foreground pixels as anchors and progressively adapts thresholds across neighboring regions, improving completeness while minimizing noise. In addition, contributed to the creation of a new dataset tailored for foreground detection in non-stationary camera settings. Experimental results demonstrated state-of-the-art performance in 2016, with significantly higher recall while maintaining strong precision compared to existing methods.
