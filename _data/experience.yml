@@ -1,6 +1,6 @@
 # Jobs
 # VP of Global Communications
-- company: AIBrain Asia & Crosscert
+- company: AIBrain Asia & Crosscert, Republic of Korea
   position: Product Manager/Software Engineer
   duration: 2025 &mdash; 2017
   summary: Managed and contributed to the development of robotics products integrating computer vision, machine learning, and conversational AI, with a primary focus on building an open-source humanoid research platform under the supervision of <a href="https://scholar.google.com/citations?user=g-ZpvTIAAAAJ&hl=en">Prof. Bernhard Egger</a>.
@@ -59,7 +59,7 @@
       #  media:
 
 # Director of Digital Stratgy
-- company: Pohang University of Science and Technology
+- company: Pohang University of Science and Technology, Republic of Korea
   position: Researcher
   duration:  2016 &mdash; 2014
   summary: Conducted research in computer vision, machine learning, pattern recognition, and visual surveillance, with a primary focus on moving object detection in non-stationary camera environments.
@@ -87,7 +87,7 @@
   #<ul class="resume-item-list"><li><strong>Moving object detection in a non-stationary camera </strong> [<a href="https://youtu.be/SK6ReAVqjD8">https://youtu.be/SK6ReAVqjD8</a>] - Developed a moving object detection on a non-stationary camera using grid-based background subtraction. Algorithm involves motion compensation of the background model and subtracting the motion compensated background model with the current image to detect the foreground. Suggested a clue-based background model #regulation to decrease the noise detected as foreground. Involved in creating a new dataset for foreground detection on a non-stationary camera. Achieved state-of-the-art in 2016. </li><li><strong>Traffic light detection</strong> [<a href="https://youtu.be/cy4JFj1KYr8">https://youtu.be/cy4JFj1KYr8</a>] - Used Piotr Dollar's Adaboost toolbox for pedestrian detection to detect traffic lights in Korea. The toolbox was also used to created a dataset for training. </li><li><strong>Traffic #accident prediction</strong> [<a href="https://youtu.be/hhAQ6EDGTDU">https://youtu.be/hhAQ6EDGTDU</a>] - Implemented traffic accident prediction by analyzing optical flow in MATLAB. The original methodology can be found <a href="https://ieeexplore.ieee.org/document/6977240">here</a>. </li></ul>
 
 # Communications Coordinator
-- company:  Georgia Institute of Technology
+- company:  Georgia Institute of Technology, USA
   position: Research Assistant
   duration:   2012  &mdash; 2011
   summary: Focused on supporting children from low-income families in improving dietary habits through technology. Reviewed HCI research literature and contributed to the design of a webpage prototype that encourages children to critically assess food advertising. Participated in brainstorming sessions and assisted in developing interactive elements to make the platform engaging and educational.
