@@ -9,7 +9,7 @@
 - organization: Moving Object Detection under a Non-Stationary Camera using Improved Background Model with Foreground Clues (Master's Thesis)
   role: WonTaek Chung
   year: 2016
-  url: https://postech.dcollection.net/public_resource/pdf/000002331437_20250925011902.pdf
+  url: http://postech.dcollection.net/jsp/common/DcLoOrgPer.jsp?sItemId=000002331437
   summary: Extended the proposed two-stage framework for moving object detection in a non-stationary camera. The background regulation method integrates frame differencing, optical flow, and foreground detection history to mitigate inaccurate motion compensation of the background models. The foreground detection process uses a sampling mask computed from a foreground probability map to identify regions with a high likelihood of being foreground. Iterative threshold refinement is then performed only within these regions, reducing overall computation while improving speed and efficiency.
 
 - organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
