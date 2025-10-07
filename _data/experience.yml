@@ -61,7 +61,7 @@
 # Director of Digital Stratgy
 - company: Pohang University of Science and Technology, Republic of Korea
   position: Researcher
-  duration:  2016 &mdash; 2014
+  duration:  2017 &mdash; 2014
   summary: Conducted research in computer vision, machine learning, pattern recognition, and visual surveillance, with a primary focus on moving object detection in non-stationary camera environments.
   projects:
     - name: Moving object detection in a non-stationary camera
