@@ -16,7 +16,8 @@
   role: WonTaek Chung, YongHyun Kim, Yong-Joong Kim, DaiJin Kim
   year: 2016
   url: https://ieeexplore.ieee.org/document/7738024
-  summary: Proposed and implemented a two-stage framework for moving object detection under non-stationary cameras. Designed a background regulation method that dynamically incorporates clues from frame differencing and background subtraction to stabilize the background model despite imperfect motion compensation. Developed an iterative threshold refinement process that leverages high-confidence foreground pixels to adapt local thresholds, improving accuracy in distinguishing true object regions from noise. This approach achieved significantly higher recall while maintaining strong precision, establishing state-of-the-art performance at the time.
+  summary: Proposed and implemented a two-stage framework for moving object detection in a non-stationary camera. The first stage incorporates a background regulation method that uses clues from frame differencing and prior foreground detection from background subtraction to mitigate the inaccurate motion compensation on the background models. The second stage selects areas with high foreground probability as anchors and iteratively lowers the threshold around the anchors, distinguishing true foreground regions from noise. This approach achieved significantly higher recall while maintaining strong precision, establishing state-of-the-art performance at the time.
+
 
 #- organization: Fast and Accurate Car Detection in Drone-View (ICCE-Asia)
 #  role: Jongmin Yoon, InHan Kim, WonTaek Chung, Daijin Kim
@@ -28,4 +29,4 @@
   role: Andrea Grimes Parker, Ian McClendon, Catherine Grevet, Victoria Ayo, WonTaek Chung, Veda Johnson, Elizabeth D. Mynatt
   year: 2013
   url: https://dl.acm.org/citation.cfm?id=2481338
-  summary: This paper introduces TalkBack, an online forum designed to help middle school students critically evaluate food advertisements by reflecting on ad claims, product healthiness, and personal desire. A study with twenty-eight participants showed that children often projected and protected their sense of identity through their forum interactions. The paper discusses how HCI interventions can better support critical thinking and promote healthier decision-making among adolescents.
+  summary: This paper introduces TalkBack, an online forum designed to help children critically evaluate food advertisements by reflecting on ad claims, product healthiness, and personal desire. TalkBack was created to explore how technology helps children develop these skills. A study with twenty-eight students in a summer camp program showed that children often projected and protected their sense of identity through their forum interactions. We also highlight the limited analytic depth in students’ forum posts and outline opportunities for HCI research to better foster critical thinking and healthier decision-making in adolescents.
